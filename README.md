@@ -28,6 +28,6 @@ docker run --rm bad-entropy
 `requirements.txt` – for dependencies
 
 ## Resources / Hints
-||https://raw.githubusercontent.com/python/cpython/refs/tags/3.5/Lib/random.py
-https://docs.python.org/3.5/library/random.html#random.seed ||
+https://raw.githubusercontent.com/python/cpython/refs/tags/3.5/Lib/random.py
+https://docs.python.org/3.5/library/random.html#random.seed
 
