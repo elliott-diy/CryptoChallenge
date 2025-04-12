@@ -24,7 +24,9 @@ docker run --rm bad-entropy
 
 ##  Files Included `(EntropyLies.zip)`
 `encrypter.py` – the vulnerable encryption script
+
 `Dockerfile` – for setting up the Python 3.5 environment and dependencies
+
 `requirements.txt` – for dependencies
 
 ## Resources / Hints
